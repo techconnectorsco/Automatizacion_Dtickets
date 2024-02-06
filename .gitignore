@@ -1,0 +1,20 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+
+# Archivos de configuración
+*.ini
+*.env
+*.pdf
+
+# Datos sensibles
+#credentials.json
+
+# Otros archivos y directorios específicos de tu aplicación
+#fonts/
+#images/
